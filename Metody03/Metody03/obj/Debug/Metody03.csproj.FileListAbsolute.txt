@@ -1,0 +1,10 @@
+D:\Downloads\skola\PRG\C#\Metody\Metody03\Metody03\bin\Debug\Metody03.exe.config
+D:\Downloads\skola\PRG\C#\Metody\Metody03\Metody03\bin\Debug\Metody03.exe
+D:\Downloads\skola\PRG\C#\Metody\Metody03\Metody03\bin\Debug\Metody03.pdb
+D:\Downloads\skola\PRG\C#\Metody\Metody03\Metody03\obj\Debug\Metody03.csprojAssemblyReference.cache
+D:\Downloads\skola\PRG\C#\Metody\Metody03\Metody03\obj\Debug\Metody03.Form1.resources
+D:\Downloads\skola\PRG\C#\Metody\Metody03\Metody03\obj\Debug\Metody03.Properties.Resources.resources
+D:\Downloads\skola\PRG\C#\Metody\Metody03\Metody03\obj\Debug\Metody03.csproj.GenerateResource.cache
+D:\Downloads\skola\PRG\C#\Metody\Metody03\Metody03\obj\Debug\Metody03.csproj.CoreCompileInputs.cache
+D:\Downloads\skola\PRG\C#\Metody\Metody03\Metody03\obj\Debug\Metody03.exe
+D:\Downloads\skola\PRG\C#\Metody\Metody03\Metody03\obj\Debug\Metody03.pdb
